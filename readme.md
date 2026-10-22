@@ -7,3 +7,6 @@ et apprendre à les retrouver et les interpréter.
 ## Architecture
 [schéma] — Windows 11 (VM), Sysmon (config SwiftOnSecurity),
 Event Viewer.
+
+## Mise en place
+- Installation de Sysmon (commande, version, config utilisée)
