@@ -10,3 +10,8 @@ Event Viewer.
 
 ## Mise en place
 - Installation de Sysmon (commande, version, config utilisée)
+
+## les scenarios de tests Journaux Windows et Sysmon
+- 01-connexion-echouee.md
+- 01-connexion-reussiee.md
+- 02-powershell.md
